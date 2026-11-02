@@ -1,0 +1,13 @@
+pyproject.toml
+src/api/__init__.py
+src/api/routes.py
+src/domain/__init__.py
+src/domain/models.py
+src/domain/ports.py
+src/domain/services.py
+src/gateway_service.egg-info/PKG-INFO
+src/gateway_service.egg-info/SOURCES.txt
+src/gateway_service.egg-info/dependency_links.txt
+src/gateway_service.egg-info/top_level.txt
+src/storage/__init__.py
+src/storage/client.py

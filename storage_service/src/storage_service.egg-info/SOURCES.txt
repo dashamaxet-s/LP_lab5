@@ -1,0 +1,8 @@
+pyproject.toml
+src/api/__init__.py
+src/domain/__init__.py
+src/storage/__init__.py
+src/storage_service.egg-info/PKG-INFO
+src/storage_service.egg-info/SOURCES.txt
+src/storage_service.egg-info/dependency_links.txt
+src/storage_service.egg-info/top_level.txt
